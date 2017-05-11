@@ -8,5 +8,5 @@ setup(
     license='MIT',
     author='Nicholas Earl',
     author_email='contact@nicholasearl.me',
-    description='Spectropy tools in Python'
+    description='Spectroscopy tools in Python'
 )
